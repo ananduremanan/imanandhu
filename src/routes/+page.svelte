@@ -74,11 +74,10 @@
 	>
 		<h2 class="text-xl md:text-4xl">About Me</h2>
 		<p>
-			I'm From Kerala (The South Part of India). Where I working as a Software Engineer For The
-			Last Two Years. I love to build Cross Platform Applications. I make music too... 
+			I'm From Kerala (The South Part of India). Where I working as a Software Engineer For The Last
+			Two Years. I love to build Cross Platform Applications. I make music too...
 		</p>
-		<a
-			href="https://onedrive.live.com/download?resid=77CAE4ED2AE118B8%211424&authkey=!AD7y-yP5rnR3Fzg&em=2"
+		<a href=""
 			><button
 				class="pixel1 p-2 m-4 w-[200px] relative"
 				aria-label="Click To Download my Resume"
